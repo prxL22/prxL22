@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on front-end, back-end
 - 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: he/him
+<!--- 😄 Pronouns: he/him-->
  
 <div>
   <a href="https://github.com/prxL22"></a>
