@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: he/him
 
-![Snake animation](https://github.com/prxL22/prxL22/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 <div>
   <a href="https://github.com/prxL22"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prxL22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
