@@ -22,4 +22,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-![Snake animation](https://github.com/prxL22/prxL22/blob/output/github-user-contribution.svg)
+![Snake animation](https://github.com/prxL22/prxL22/blob/output/github-contribution-grid-snake.svg)
