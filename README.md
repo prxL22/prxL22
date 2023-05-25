@@ -23,4 +23,3 @@
 </div>
 
 ![Snake animation](https://github.com/prxL22/prxL22/blob/output/github-user-contribution.svg)
-github-user-contribution.svg
