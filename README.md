@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on front-end, back-end
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: he/him
-
+- 
 <div>
-  <a href="https://github.com/prxL22">
+  <a href="https://github.com/prxL22"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prxL22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxL22&layout=compact&langs_count=168theme=dracula"/>
 </div>
