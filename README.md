@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on front-end, back-end
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Java
 <!--- 😄 Pronouns: he/him-->
 
 <div style="display: inline_block"><br></b>
