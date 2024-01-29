@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on front-end, back-end
-- 🌱 I’m currently learning JavaScript and Java
+- 🔭 I’m currently working on front-end, back-end, JavaScript
+- 🌱 I’m currently learning Java, Sql
 <!--- 😄 Pronouns: he/him-->
 
 <div style="display: inline_block"><br></b>
